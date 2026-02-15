@@ -1,0 +1,13 @@
+# Model files
+model/*.h5
+model/*.pb
+
+# Datasets
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
